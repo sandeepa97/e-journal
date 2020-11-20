@@ -1,9 +1,9 @@
-/**
-* Template Name: Bell - v2.1.0
-* Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+//  =======================================================
+// * Web Name: Manurawa 2020
+// * Web Version: 1.0
+// * Developer: Sandeepa Lokubaranige | www.sandeepa.net
+// * Owner: SLLCHRM | www.sllchrm.lk
+// ======================================================== 
 !(function($) {
   "use strict";
 

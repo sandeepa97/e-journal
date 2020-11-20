@@ -1,9 +1,9 @@
-/**
-* Template Name: Bell - v2.1.0
-* Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+/* =======================================================
+* Web Name: Manurawa 2020
+* Web Version: 1.0
+* Developer: Sandeepa Lokubaranige | www.sandeepa.net
+* Owner: SLLCHRM | www.sllchrm.lk
+========================================================  */
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
@@ -49,16 +49,18 @@ a:hover {
   Elements
   ================================================== */
 .btn {
-  background-color: #199EB8;
+  /* background-color: #199EB8; */
+  background-color: #111111;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
-  padding: 15px 45px;
+  padding: 10px 35px;
   border-radius: 50px;
 }
 
 .btn:hover {
-  background-color: #E04F00;
+  /* background-color: #E04F00; */
+  background-color: #199EB8;
   color: #fff;
 }
 
@@ -67,16 +69,16 @@ a:hover {
 }
 
 .search-text {
-  /* text-align: center;
+  text-align: center;
   display: inline-block;
   float: none;
-  margin: 0 auto */
-  background-color: #199EB8;
+  /* margin: 0 auto */
+  /* background-color: #199EB8;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
   padding: 15px 45px;
-  border-radius: 50px;
+  border-radius: 50px; */
 }
 
 .btn-ghost {
@@ -428,10 +430,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 .hero {
   display: table;
   position: relative;
-  background-image: url(../img/cover1.jpg);
+  background-image: url(../img/cover2.jpg);
   background-size: cover;
-  padding: 150px 0;
-  color: #fff;
+  /* padding: 150px 0; */
+  color: #111111;
   width: 100%;
   height: 100vh;
 }
@@ -440,7 +442,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   content: '';
   z-index: 0;
   position: absolute;
-  background: rgba(0, 0, 0, 0.65);
+  /* background: rgba(0, 0, 0, 0.65); */
   width: 100%;
   height: 100%;
   left: 0;
