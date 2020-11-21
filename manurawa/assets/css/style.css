@@ -5,7 +5,8 @@
 * Owner: SLLCHRM | www.sllchrm.lk
 ========================================================  */
 
-h1, h2, h3, h4, h5, h6 {
+/* h1,  */
+h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
 
@@ -17,7 +18,8 @@ p {
 }
 
 h1 {
-  font-size: 62px;
+  /* font-size: 62px; */
+  font: 700 62px/100% "Hoefler Titling A","Hoefler Titling B",Georgia,Times,Times New Roman,serif;
 }
 
 h2 {
