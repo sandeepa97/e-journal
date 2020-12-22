@@ -56,4 +56,7 @@ optgroup {
         display:none;  
       }
   
-     
+.sponsor-image{
+    padding: 5px;
+    height: 60px;
+}
