@@ -1,0 +1,4 @@
+# The Official Website of Sri Lanka LAW STUDENTS' HUMAN RIGHTS MOVEMENT
+
+# The Manurawa Law Journal
+The Manurawa Law Journal, which is a symbol of rich legal literature available not only to the legal fraternity but also to the lay person alike, is a hallmark event of the Law Students' Human Rights Movement. This highly acclaimed journal is considered as the best publication by any society of Law College and a staple of legal literature. Sitting and retired judges, Officers of The Attorney General’s Department, Leading Lawyers of the unofficial bar, Legal Academics and Law Students annually contribute articles, research papers, case notes and reviews of highest quality to the Journal.
