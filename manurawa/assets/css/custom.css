@@ -58,7 +58,8 @@ optgroup {
   
 .sponsor-image{
     /* padding: 10px; */
-    height: 300px;
+    /* height: 300px; */
+    width: 50%;
 }
 
 /* felicitations */
